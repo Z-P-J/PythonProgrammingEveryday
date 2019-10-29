@@ -3,8 +3,6 @@
 再落下，求它在第10次落地时，共经过多少米？第10次反弹多高？
 '''
 
-print("Hello World!")
-
 total = 0.0
 temp = 100.0
 for i in range(10):
