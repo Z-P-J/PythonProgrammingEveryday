@@ -11,3 +11,5 @@ day2. [打印出所有的“水仙花数”，所谓“水仙花数”是指一�
 day3. [有1、2、3、4个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day3)
 
 day4. [编写一个函数判断一个数是否是奇数，并判断101-200之间有多少个素数，并输出所有素数](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day4)
+
+day5. [将一个正整数分解质因数。例如：输入90,打印出90=2*3*3*5。](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day5)
