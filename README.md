@@ -17,3 +17,5 @@ day5. [将一个正整数分解质因数。例如：输入90,打印出90=2*3*3*5
 day6. [输入一行字符，分别统计出其中英文字母、空格、数字和其它字符的个数。](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day6)
 
 day7. [求s=a+aa+aaa+aaaa+aa...a的值，其中a是一个数字。例如2+22+222+2222+22222(此时共有5个数相加)，几个数相加有键盘控制。](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day7)
+
+day8. [一个数如果恰好等于它的因子之和，这个数就称为“完数”。例如6=1＋2＋3.编程找出1000以内的所有完数。](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day8)
