@@ -33,3 +33,5 @@ day13. [Define a class which has at least two methods: getString: to get a strin
 day14. [Write a program that calculates and prints the value according to the given formula: Q = Square root of [(2 * C * D)/H] Following are the fixed values of C and H: C is 50. H is 30. D is the variable whose values should be input to your program in a comma-separated sequence.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day14)
 
 day15. [Write a program which takes 2 digits, X,Y as input and generates a 2-dimensional array. The element value in the i-th row and j-th column of the array should be i*j. Note: i=0,1.., X-1; j=0,1,¡­Y-1.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day15)
+
+day16. [Write a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day16)
