@@ -37,3 +37,5 @@ day15. [Write a program which takes 2 digits, X,Y as input and generates a 2-dim
 day16. [Write a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day16)
 
 day17. [Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day17)
+
+day18. [Write a program that accepts a sequence of whitespace separated words as input and prints the words after removing all duplicate words and sorting them alphanumerically.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day18)
