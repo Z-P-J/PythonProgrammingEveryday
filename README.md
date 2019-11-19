@@ -45,3 +45,5 @@ day19. [Write a program which accepts a sequence of comma separated 4 digit bina
 day20. [Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number. The numbers obtained should be printed in a comma-separated sequence on a single line.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day20)
 
 day21. [Write a program that accepts a sentence and calculate the number of letters and digits.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day21)
+
+day22. [Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day22)
