@@ -51,3 +51,5 @@ day22. [Write a program that accepts a sentence and calculate the number of uppe
 day23. [Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day23)
 
 day24. [Use a list comprehension to square each odd number in a list. The list is input by a sequence of comma-separated numbers.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day24)
+
+day25. [Write a program that computes the net amount of a bank account based a transaction log from console input.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day24)
