@@ -57,3 +57,5 @@ day25. [Write a program that computes the net amount of a bank account based a t
 day26. [A website requires the users to input username and password to register. Write a program to check the validity of password input by users.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day26)
 
 day27. [You are required to write a program to sort the (name, age, height) tuples by ascending order where name is string, age and height are numbers.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day27)
+
+day28. [Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day28)
