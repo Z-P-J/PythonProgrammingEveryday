@@ -63,3 +63,5 @@ day28. [Define a class with a generator which can iterate the numbers, which are
 day29. [A robot moves in a plane starting from the original point (0,0). The robot can move toward UP, DOWN, LEFT and RIGHT with a given steps. Please write a program to compute the distance from current position after a sequence of movement and original point. If the distance is a float, then just print the nearest integer.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day29)
 
 day30. [Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day30)
+
+day31. [Write a method which can calculate square value of number](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day31)
