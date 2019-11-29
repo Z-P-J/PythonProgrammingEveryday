@@ -65,3 +65,5 @@ day29. [A robot moves in a plane starting from the original point (0,0). The rob
 day30. [Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day30)
 
 day31. [Write a method which can calculate square value of number](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day31)
+
+day32. [Python has many built-in functions, and if you do not know how to use it, you can read document online or find some books. But Python has a built-in document function for every built-in functions.Please write a program to print some Python built-in functions documents, such as abs(), int(), raw_input() And add document for your own function](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day32)
