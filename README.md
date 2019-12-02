@@ -71,3 +71,5 @@ day32. [Python has many built-in functions, and if you do not know how to use it
 day33. [Define a class, which have a class parameter and have a same instance parameter](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day33)
 
 day34. [Define a function which can compute the sum of two numbers.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day34)
+
+day35. [Define a function that can convert a integer into a string and print it in console.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day35)
