@@ -73,3 +73,5 @@ day33. [Define a class, which have a class parameter and have a same instance pa
 day34. [Define a function which can compute the sum of two numbers.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day34)
 
 day35. [Define a function that can convert a integer into a string and print it in console.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day35)
+
+day36. [Define a function that can receive two integral numbers in string form and compute their sum and then print it in console.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day36)
