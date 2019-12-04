@@ -75,3 +75,5 @@ day34. [Define a function which can compute the sum of two numbers.](https://git
 day35. [Define a function that can convert a integer into a string and print it in console.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day35)
 
 day36. [Define a function that can receive two integral numbers in string form and compute their sum and then print it in console.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day36)
+
+day37. [Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print al l strings line by line.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day37)
