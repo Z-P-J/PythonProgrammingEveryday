@@ -77,3 +77,5 @@ day35. [Define a function that can convert a integer into a string and print it 
 day36. [Define a function that can receive two integral numbers in string form and compute their sum and then print it in console.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day36)
 
 day37. [Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print al l strings line by line.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day37)
+
+day38. [Define a function that can accept an integer number as input and print the "It is an even number" if the number is even, otherwise print "It is an odd number".](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day38)
