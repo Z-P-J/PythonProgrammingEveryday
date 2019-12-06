@@ -79,3 +79,5 @@ day36. [Define a function that can receive two integral numbers in string form a
 day37. [Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print al l strings line by line.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day37)
 
 day38. [Define a function that can accept an integer number as input and print the "It is an even number" if the number is even, otherwise print "It is an odd number".](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day38)
+
+day39. [Define a function which can print a dictionary where the keys are numbers between 1 and 3 (both included) and the values are square of keys.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day39)
