@@ -81,3 +81,5 @@ day37. [Define a function that can accept two strings as input and print the str
 day38. [Define a function that can accept an integer number as input and print the "It is an even number" if the number is even, otherwise print "It is an odd number".](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day38)
 
 day39. [Define a function which can print a dictionary where the keys are numbers between 1 and 3 (both included) and the values are square of keys.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day39)
+
+day40. [Define a function which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day40)
