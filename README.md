@@ -83,3 +83,5 @@ day38. [Define a function that can accept an integer number as input and print t
 day39. [Define a function which can print a dictionary where the keys are numbers between 1 and 3 (both included) and the values are square of keys.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day39)
 
 day40. [Define a function which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day40)
+
+day41. [Define a function which can generate a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. The function should just print the values only.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day41)
