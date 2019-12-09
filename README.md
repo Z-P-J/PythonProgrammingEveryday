@@ -85,3 +85,5 @@ day39. [Define a function which can print a dictionary where the keys are number
 day40. [Define a function which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day40)
 
 day41. [Define a function which can generate a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. The function should just print the values only.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day41)
+
+day42. [Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print the first 5 elements in the list.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day42)
