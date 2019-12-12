@@ -91,3 +91,5 @@ day42. [Define a function which can generate a list where the values are square 
 day43. [Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print the last 5 elements in the list.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day43)
 
 day44. [Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print all values except the first 5 elements in the list.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day44)
+
+day45. [Define a function which can generate and print a tuple where the value are square of numbers between 1 and 20 (both included).](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day45)
