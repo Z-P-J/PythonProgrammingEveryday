@@ -95,3 +95,5 @@ day44. [Define a function which can generate a list where the values are square 
 day45. [Define a function which can generate and print a tuple where the value are square of numbers between 1 and 20 (both included).](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day45)
 
 day46. [With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line and the last half values in one line.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day46)
+
+day47. [Write a program to generate and print another tuple whose values are even numbers in the given tuple (1,2,3,4,5,6,7,8,9,10).](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day47)
