@@ -97,3 +97,5 @@ day45. [Define a function which can generate and print a tuple where the value a
 day46. [With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line and the last half values in one line.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day46)
 
 day47. [Write a program to generate and print another tuple whose values are even numbers in the given tuple (1,2,3,4,5,6,7,8,9,10).](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day47)
+
+day48. [Write a program which accepts a string as input to print "Yes" if the string is "yes" or "YES" or "Yes", otherwise print "No".](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day48)
