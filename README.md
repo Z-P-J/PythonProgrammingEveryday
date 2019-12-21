@@ -105,3 +105,5 @@ day49. [Write a program which can filter even numbers in a list by using filter 
 day50. [Write a program which can map() to make a list whose elements are square of elements in [1,2,3,4,5,6,7,8,9,10].](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day50)
 
 day51. [Define a class named American which has a static method called printNationality.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day51)
+
+day52. [Define a class named American and its subclass NewYorker.](https://github.com/Z-P-J/PythonProgrammingEveryday/blob/master/src/day52)
